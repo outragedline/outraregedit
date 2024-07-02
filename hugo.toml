@@ -1,0 +1,4 @@
+baseURL = 'https://outragedline.github.io/outraregedit'
+languageCode = 'en-us'
+title = 'Outraregedit'
+theme = 'PaperMod'
